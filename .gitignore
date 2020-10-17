@@ -142,3 +142,6 @@ cython_debug/
 
 # Temp files
 posts/
+
+# Log files
+*.log
